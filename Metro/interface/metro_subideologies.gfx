@@ -1,0 +1,86 @@
+spriteTypes = {
+	### Unique ###
+	## RED ##
+	SpriteType = {
+		name = "GFX_ideology_RED_community_group"
+		texturefile = "gfx/interface/ideologies/unique/RED/RED_community.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_RED_council_group"
+		texturefile = "gfx/interface/ideologies/unique/RED/RED_council.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_RED_oligarch_group"
+		texturefile = "gfx/interface/ideologies/unique/RED/RED_oligarch.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_RED_dictatorial_group"
+		texturefile = "gfx/interface/ideologies/unique/RED/RED_dictatorial.dds"
+	}
+	## RCH ##
+	SpriteType = {
+		name = "GFX_ideology_RCH_community_group"
+		texturefile = "gfx/interface/ideologies/unique/RCH/RCH_community.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_RCH_council_group"
+		texturefile = "gfx/interface/ideologies/unique/RCH/RCH_council.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_RCH_oligarch_group"
+		texturefile = "gfx/interface/ideologies/unique/RCH/RCH_oligarch.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_RCH_dictatorial_group"
+		texturefile = "gfx/interface/ideologies/unique/RCH/RCH_dictatorial.dds"
+	}
+	## KUZ ##
+	SpriteType = {
+		name = "GFX_ideology_KUZ_community_group"
+		texturefile = "gfx/interface/ideologies/unique/KUZ/KUZ_community.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_KUZ_council_group"
+		texturefile = "gfx/interface/ideologies/unique/KUZ/KUZ_council.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_KUZ_oligarch_group"
+		texturefile = "gfx/interface/ideologies/unique/KUZ/KUZ_oligarch.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_KUZ_dictatorial_group"
+		texturefile = "gfx/interface/ideologies/unique/KUZ/KUZ_dictatorial.dds"
+	}
+	## SAT ##
+	SpriteType = {
+		name = "GFX_ideology_SAT_dictatorial_group"
+		texturefile = "gfx/interface/ideologies/unique/SAT/SAT_dictatorial.dds"
+	}
+	## PLS ##
+	SpriteType = {
+		name = "GFX_ideology_PLS_community_group"
+		texturefile = "gfx/interface/ideologies/unique/PLS/PLS_community.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_PLS_council_group"
+		texturefile = "gfx/interface/ideologies/unique/PLS/PLS_council.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_PLS_oligarch_group"
+		texturefile = "gfx/interface/ideologies/unique/PLS/PLS_oligarch.dds"
+	}
+	SpriteType = {
+		name = "GFX_ideology_PLS_dictatorial_group"
+		texturefile = "gfx/interfacei/deologies/unique/PLS/PLS_dictatorial.dds"
+	}
+	## HNZ ##
+	SpriteType = {
+		name = "GFX_ideology_HNZ_oligarch_group"
+		texturefile = "gfx/interface/ideologies/unique/HNZ/HNZ_oligarch.dds"
+	}
+	## KRY ##
+	SpriteType = {
+		name = "GFX_ideology_KRY_community_group"
+		texturefile = "gfx/interface/ideologies/unique/KRY/KRY_community.dds"
+	}
+}
